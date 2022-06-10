@@ -1,3 +1,6 @@
 import os
 os.system('clear')
-os.system('python speed.py')
+os.system('git pull')
+os.system('clear')
+import speed
+speed.menu()
